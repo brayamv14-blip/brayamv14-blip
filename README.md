@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Brayan Montoya 👋
 
-<!--
-**brayamv14-blip/brayamv14-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería en Desarrollo de Software** en la Universidad Tecnológica Fidel Velázquez.
 
-Here are some ideas to get you started:
+## Proyectos
+- [App de Delivery](https://github.com/brayamv14-blip/delivery-app-sprint1): Android, Kotlin y Jetpack Compose
+- [Food Ordering](https://github.com/brayamv14-blip/food_ordering): app móvil de pedidos
+- [PuntoBase](https://github.com/brayamv14-blip/PuntoBase): POS e inventario offline-first (PWA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+Kotlin · Java · JavaScript · Spring Boot · Jetpack Compose · Appwrite · Git
+
+## Contacto
+TODO: correo y LinkedIn
