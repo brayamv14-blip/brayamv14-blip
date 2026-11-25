@@ -1,3 +1,5 @@
+<img src="foto.jpg" alt="Foto de Brayan Montoya" width="150" align="right">
+
 # Hola, soy Brayan Montoya 👋
 
 Estudiante de **Ingeniería en Desarrollo de Software** en la **Universidad Tecnológica Fidel Velázquez** (UTFV).
